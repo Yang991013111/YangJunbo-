@@ -12,7 +12,7 @@
     background: url("./images/img1.webp") no-repeat center;
     background-size: cover;
     padding: 6vw 2vw;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'BingKe';
     font-size: 8vw;
     transition: all 0.3s;
@@ -45,8 +45,8 @@ img{
     width: 68%;
 }
 .text_title{
-    font-size: 28px;
-    color: white;
+    font-size: 40px;
+    color: rgb(196, 173, 149);
     font-weight: bold;
     text-shadow: 0 0 10px rgba(0,0,0,0.5);
     display: flex;
@@ -59,11 +59,11 @@ img{
     cursor: pointer;
 }
 .texts{
-    color: white;
+    color: rgba(221, 221, 121, 0.982);
     height: calc(21vw - 20px);
     overflow-y: auto;
     line-height: 150%;
-    font-size: 18px;
+    font-size: 40px;
     font-family: "Comic Sans MS";
     margin-top: 20px;
     transition: all 0.3s;
